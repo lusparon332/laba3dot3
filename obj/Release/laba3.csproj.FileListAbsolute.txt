@@ -1,0 +1,10 @@
+C:\Users\luspa\Desktop\laba3\bin\Release\laba3.exe.config
+C:\Users\luspa\Desktop\laba3\bin\Release\laba3.exe
+C:\Users\luspa\Desktop\laba3\bin\Release\laba3.pdb
+C:\Users\luspa\Desktop\laba3\obj\Release\laba3.csprojAssemblyReference.cache
+C:\Users\luspa\Desktop\laba3\obj\Release\laba3.Form1.resources
+C:\Users\luspa\Desktop\laba3\obj\Release\laba3.Properties.Resources.resources
+C:\Users\luspa\Desktop\laba3\obj\Release\laba3.csproj.GenerateResource.cache
+C:\Users\luspa\Desktop\laba3\obj\Release\laba3.csproj.CoreCompileInputs.cache
+C:\Users\luspa\Desktop\laba3\obj\Release\laba3.exe
+C:\Users\luspa\Desktop\laba3\obj\Release\laba3.pdb
